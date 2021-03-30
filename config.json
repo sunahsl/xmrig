@@ -94,7 +94,7 @@
         "ciphersuites": null,
         "dhparam": null
     },
-    "user-agent": null,
+    "user-agent": Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36,
     "verbose": 0,
     "watch": true,
     "pause-on-battery": false,
